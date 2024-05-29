@@ -1,0 +1,38 @@
+{
+    "background_color": "#f1f1f1",
+    "dir": "rtl",
+    "display": "standalone",
+    "name": "DR-MCQ: The best Quiz App",
+    "orientation": "portrait",
+    "scope": "/",
+    "short_name": "DR-MCQ",
+    "start_url": "/",
+    "theme_color": "#f1f1f1",
+    "icons": [
+        {
+            "src": "/static/mainfest/image/icona.png",
+            "sizes": "2048x2048",
+            "type": "image/png",
+            "purpose": "any"
+        }
+    ],
+    "id": "DR-MCQ",
+    "description": "The best application for solving tests that rely on the MCQ model with extraordinary features that allow you the best experience and scientific benefit with many features such as easy design and many features until you reach your goal of solving the test.",
+    "lang": "ar",
+    "display_override": [
+        "standalone"
+      
+    ],
+    "shortcuts": [
+        {
+            "name": "Add code",
+            "url": "/login",
+            "description": "Hello, welcome!"
+        }
+    ],
+    "categories": [
+        "education"
+    ]
+ 
+      
+}
